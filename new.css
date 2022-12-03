@@ -1,0 +1,168 @@
+
+
+h1 {
+    text-align: center;
+    color: #2f76b4;
+    padding: 20px;
+}
+
+.header{
+    width: 700px;
+    margin: auto;
+    border: 1px solid#2f080828;
+    background-color:#2789b0;
+    border-radius: 15px;
+}
+.header h3{
+    font-size: 20px;
+    text-align: center;
+    color: white;}
+.header input{
+    width: 523px;
+    height: 29px;
+    margin: 11px 2px 0px 41px;
+}
+.header button{
+    width: 120px;
+    height: 40px;
+    margin: 7px 0 12px22px;
+    margin: 16px 0px 20px 40px;
+    background-color:#1b1b1bad;
+    border-radius: 8px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+/* index-html state*/
+
+
+.header {
+    color: #149bc7;
+}
+
+.total-flex {
+        display: flex;
+        width: 800px;
+        margin: auto;
+        height: 100px;
+    }
+    
+.deposit-A {
+        width: 240px;
+        height: 100px;
+        background-color: #149bc7;
+        margin: 7px;
+        margin: auto;
+        border-radius: 6px;
+        color: white;
+
+    }
+
+    .deposit-A h2{
+        text-align: center;
+    }
+
+.withdraw-A{
+    width: 240px;
+    height: 100px;
+    background-color:#5ab95ee6;
+    margin: 7px;
+    margin: auto;
+    border-radius: 6px;
+    color: white;
+}
+
+.withdraw-A h2{
+    text-align: center;
+}
+.blance-A{
+    width: 240px;
+    height: 100px;
+    background-color: rgb(244 67 54 / 83%);
+    margin: 7px;
+    margin: auto;
+    border-radius: 6px;
+    color: white;
+}
+
+
+.blance-A h2{
+    text-align: center;
+}
+
+
+.flex-2{
+    display: flex;
+    width: 800px;
+    margin: auto;
+    /* height: 3px; */
+}
+.deposit-B{
+    border-radius: 8px;
+    width: 390px;
+    margin: auto;
+    background-color: #3f51b5;
+    height: 180px;
+    color: white;
+}
+.deposit-B h3{
+    padding: 15px;
+    margin: 0px;
+}
+.deposit-B input{
+
+width: 290px;
+
+margin: 13px 0px 11px 12px;
+
+height: 20px;
+}
+
+.deposit-B button{
+
+width: 83px;
+
+height: 34px;
+
+border-radius: 4px;
+
+margin: 1px 5px 0px 12px;
+background-color: #4caf50c4;
+}
+.withdraw-B{
+    border-radius: 8px;
+    width: 390px;
+    margin: auto;
+    background-color: #3fb59f;
+    height: 180px;
+    color: white;
+}
+.withdraw-B h3{
+    padding: 15px;
+    margin: 0px;
+}
+.withdraw-B input{
+
+    width: 290px;
+
+margin: 13px 0px 11px 12px;
+
+height: 20px;
+}
+
+.withdraw-B button{
+    width: 83px;
+
+height: 34px;
+
+border-radius: 4px;
+
+margin: 1px 5px 0px 12px;
+background-color: #4caf50c4;
+}
